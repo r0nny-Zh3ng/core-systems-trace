@@ -1,0 +1,45 @@
+Chuwei(Ronny) Zheng
+https://www.newschool.edu/
+I use this website for admission information when I applied the school and school information
+
+
+
+r0nny@Chuweis-MBP ~ % traceroute newschool.edu
+traceroute: Warning: newschool.edu has multiple addresses; using 52.20.198.175
+traceroute to newschool.edu (52.20.198.175), 64 hops max, 52 byte packets
+ 1  cr1000a (192.168.1.1)  28.185 ms  2.023 ms  1.893 ms
+ 2  * * *
+ 3  b3401.nycmny-lcr-21.verizon-gni.net (100.41.137.94)  9.862 ms
+    b3401.nycmny-lcr-22.verizon-gni.net (100.41.137.96)  6.382 ms
+    b3401.nycmny-lcr-21.verizon-gni.net (100.41.137.94)  6.786 ms
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  0.ae16.gw14.iad8.alter.net (140.222.226.37)  14.102 ms  12.380 ms  12.223 ms
+ 8  204.148.170.210 (204.148.170.210)  14.068 ms
+    &#10.170.148.204.in-addr.arpa (204.148.170.66)  12.550 ms
+    204.148.170.210 (204.148.170.210)  12.257 ms
+ 9  * * *
+10  * * *
+11  52.93.28.188 (52.93.28.188)  17.968 ms
+    52.93.28.196 (52.93.28.196)  13.923 ms
+    52.93.28.188 (52.93.28.188)  13.689 ms
+12  * * *
+13  * * *
+
+
+
+[52.20.198.175] Latitude:39.039474; Longitude:-77.491809
+NYC, City I live in rn.
+
+[100.41.137.94] Latitude:40.712792; Longitude:-74.006065
+Ashburn, VA. Verizon Business has a major office in Ashburn at the location replacing MCI WorldCom's headquarters after its acquisition. Ashburn is also home to government contractor Telos.
+
+[140.222.226.37] Latitude:38.95166; Longitude:-77.448056
+NYC
+
+[204.148.170.210] Latitude:39.03408; Longitude:-77.4885
+Dulles, VA. 
+
+[52.93.28.188] Latitude:47.6275; Longitude:-122.3462
+DC, the Capital
